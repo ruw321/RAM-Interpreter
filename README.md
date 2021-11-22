@@ -1,4 +1,5 @@
 # RAM-Interpreter
+- It is an RAM program interpreter coded in Python. 
 
 ## Instructions to Run :
  
@@ -11,3 +12,8 @@
 - Replace or add instructions in the format of RAMconcat list at the top
 - Create or replace input strings at the bottom 
 - Replace the function arguments and then run the file
+
+## Output :
+
+- input strings 
+- result string 
